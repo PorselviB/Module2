@@ -29,9 +29,10 @@ div.content-wrapper
 {
   
 margin-right:10px;
- 
+ margin-bottom:10px;
   border:1px solid black;
   background-color:#A9A9A9;
+  text-align:left;
 }
 
 p {
@@ -42,8 +43,7 @@ p {
  
   font-family: Helvetica;
   color: black;
-    text-align:left;
-
+   
 }
 /* Simple Responsive Framework. */
 .row {
