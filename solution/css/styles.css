@@ -43,6 +43,8 @@ p {
  
   font-family: Helvetica;
   color: black;
+    text-align:left;
+
 }
 /* Simple Responsive Framework. */
 .row {
