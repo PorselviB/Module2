@@ -182,7 +182,7 @@ p {
   }
 }
 #footer {
-    position: absolute;
+    position: fixed;
   width: 100%;  
   background-color:grey;
     bottom: 0;
@@ -191,4 +191,5 @@ p {
     color:black;
     font-weight:bold;
   text-align:right;
+  padding-right:10px;
 }
