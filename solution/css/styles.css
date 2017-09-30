@@ -191,6 +191,7 @@ p {
     color:black;
     font-weight:bold;
   text-align:right;
- margin:auto;
+ padding-right:10px;
+  padding-left:0px;
   
 }
