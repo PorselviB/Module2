@@ -13,7 +13,8 @@ div>div>span
   width:100px;
   border:1px solid black;
  text-align:center;
-  
+  margin-right:5px;
+ margin-left:5px;
 }
 
 .name1
@@ -185,4 +186,3 @@ p {
     width: 100%;
   }
 }
-
