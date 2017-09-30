@@ -29,7 +29,7 @@ div.content-wrapper
 {
   
 margin-right:10px;
-  margin-left:10px;
+ 
   border:1px solid black;
   background-color:#A9A9A9;
 }
@@ -39,7 +39,6 @@ p {
   height:auto;
   margin-right: auto;
   margin-left: auto;
-  padding:0px;
  
   font-family: Helvetica;
   color: black;
