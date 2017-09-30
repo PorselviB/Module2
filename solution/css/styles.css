@@ -12,6 +12,10 @@ div>div>span
   float:right;
   border:1px solid black;
 }
+.row
+{
+  background-color: #808080;
+}
 .name1
 {
   background-color:#FFB6C1;
