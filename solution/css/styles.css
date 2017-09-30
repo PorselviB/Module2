@@ -16,9 +16,9 @@ div>div>span
 }
 div.content-wrapper
 {
-  margin-right:10px;
-  margin-left:10px;
-  
+  margin:10px;
+ 
+ 
   padding:10px;
   border:1px solid black;
   background-color:#A9A9A9;
@@ -37,7 +37,7 @@ div.content-wrapper
 }
 
 p {
-  width: 90%;
+  
   height: 150px;
   margin-right: auto;
   margin-left: auto;
