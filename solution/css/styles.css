@@ -184,10 +184,11 @@ p {
 #footer {
     position: fixed;
   width: 100%;  
-  float:right;
+  background-color:grey;
     bottom: 0;
     
     border:1px solid black;
     color:black;
     font-weight:bold;
+  text-align:right;
 }
