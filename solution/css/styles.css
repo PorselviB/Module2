@@ -16,8 +16,7 @@ div>div>span
 }
 div.content-wrapper
 {
-  margin-left:5px;
- margin-right:5px;
+  margin:10px;
  
  
   border:1px solid black;
@@ -39,8 +38,8 @@ div.content-wrapper
 p {
   
   height:auto;
-  margin-right: auto;
-  margin-left: auto;
+  margin-right:5px;
+  margin-left: 5px;
   font-family: Helvetica;
   color: black;
 }
