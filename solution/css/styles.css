@@ -9,16 +9,17 @@ h1 {
 }
 div>div>span
 {
+  width:100px;
   float:right;
   border:1px solid black;
   
 }
 div.content-wrapper
 {
-  margin:10px;
+  margin-left:5px;
+ margin-right:5px;
  
  
-  padding:10px;
   border:1px solid black;
   background-color:#A9A9A9;
 }
